@@ -1,1 +1,1 @@
-# Azure-Functions---ArcGIS-Examples
+# Azure-Functions-ArcGIS-Examples
